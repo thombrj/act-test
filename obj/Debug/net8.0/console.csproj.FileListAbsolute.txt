@@ -1,0 +1,14 @@
+/home/bryce/dev/act-test/bin/Debug/net8.0/console
+/home/bryce/dev/act-test/bin/Debug/net8.0/console.deps.json
+/home/bryce/dev/act-test/bin/Debug/net8.0/console.runtimeconfig.json
+/home/bryce/dev/act-test/bin/Debug/net8.0/console.dll
+/home/bryce/dev/act-test/bin/Debug/net8.0/console.pdb
+/home/bryce/dev/act-test/obj/Debug/net8.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryce/dev/act-test/obj/Debug/net8.0/console.AssemblyInfoInputs.cache
+/home/bryce/dev/act-test/obj/Debug/net8.0/console.AssemblyInfo.cs
+/home/bryce/dev/act-test/obj/Debug/net8.0/console.csproj.CoreCompileInputs.cache
+/home/bryce/dev/act-test/obj/Debug/net8.0/console.dll
+/home/bryce/dev/act-test/obj/Debug/net8.0/refint/console.dll
+/home/bryce/dev/act-test/obj/Debug/net8.0/console.pdb
+/home/bryce/dev/act-test/obj/Debug/net8.0/console.genruntimeconfig.cache
+/home/bryce/dev/act-test/obj/Debug/net8.0/ref/console.dll
